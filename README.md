@@ -4,7 +4,7 @@ Group3-2's submission for the CSF213(OOP) Project 2021
 ## Set up
 Clone the repo using,
 
-`git clone "https://github.com/AryanJain11/SnakeGame.git"`
+`git clone "https://github.com/AryanJain11/Snake-Game.git"`
 
 or download the zip file.
 
